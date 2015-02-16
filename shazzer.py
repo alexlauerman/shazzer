@@ -1,3 +1,4 @@
+#replace prefix and suffix with your own HTML before and after the injection point
 prefix =  """
     <html>
 	<select name="selectedName" multiple="multiple" size="10" ondblclick="doubleClickRemove(this)" style="width: 240px;">
